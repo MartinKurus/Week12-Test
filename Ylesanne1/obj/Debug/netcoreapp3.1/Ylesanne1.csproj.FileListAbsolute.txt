@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.exe
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.dll
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\bin\Debug\netcoreapp3.1\Ylesanne1.pdb
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.dll
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.pdb
+C:\Users\opilane\source\repos\LOGitpe21\Week13-Test\Ylesanne1\obj\Debug\netcoreapp3.1\Ylesanne1.genruntimeconfig.cache
